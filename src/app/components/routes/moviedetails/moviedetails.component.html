@@ -1,0 +1,35 @@
+<app-header></app-header>
+<div class="back"><img class="portada" src="{{ urlImage + movie.backdrop_path}}" alt=""></div>
+
+<div class="frame">
+    <h5>PelisUp  /  Movies</h5>
+    <div class="nombre">{{movie.title}}</div>
+</div>
+
+<img class="card" src="{{ urlImage + movie.poster_path}}" alt="">
+
+<div class="details">
+    <h1>{{movie.tagline || movie.original_title}}</h1>
+    <h2>{{movie.overview}}</h2>
+    <div class="rating">
+        <img width="13.5" height="13.5" src="assets/star.png" alt="">
+        {{movie.vote_average|number:"1.1-1"}}
+      </div>
+
+    <div class="box2">
+        <h3>Type</h3>
+        <h4>Movie</h4>
+        <h3>Release date</h3>
+        <h4>{{movie.release_date}}</h4>
+        <h3>Duration</h3>
+        <h4>{{movie.runtime}} min</h4>
+        <h3>Genres</h3>
+        <h4>{{genre}}</h4>
+        <br>
+        <br>
+        <br>
+        <br>
+    </div>
+  
+</div>
+

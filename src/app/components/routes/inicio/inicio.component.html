@@ -1,0 +1,35 @@
+<app-header></app-header>
+
+<H1>Bienvenido</H1>
+
+<div class="box">
+  <button class="opcion" [ngClass]="filter == 'Todos' ? 'active' : 'danger'" (click)="all(1)">
+    Ver Todo
+  </button>
+  <button class="opcion" [ngClass]="filter == 'movie' ? 'active' : 'danger'" (click)="movies(1)">
+    Buscar por productos
+  </button>
+  <button class="opcion" [ngClass]="filter == 'tv' ? 'active' : 'danger'" (click)="series(1)">
+    Buscar por clientes
+  </button>
+ </div>
+
+ 
+
+<div class="input-group rounded">
+    <img class="bg-image" width="35" height="35" src="assets/search-normal.svg">
+    <input type="text" class="form-control" placeholder="Buscar" [(ngModel)]="toSearch" (ngModelChange)="search($event)">
+</div>
+
+<p>{{actual}}<span>({{cant}})</span></p>
+ 
+<app-card class="cartas" [filter]="filter" [movieSeriesRow]="movieSeriesRow"></app-card>
+
+
+
+
+        
+
+        
+        
+

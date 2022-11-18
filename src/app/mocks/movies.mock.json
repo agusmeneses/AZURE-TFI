@@ -1,0 +1,426 @@
+{
+  "movies": [
+    {
+      "adult": false,
+      "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+      "id": 718930,
+      "title": "Bullet Train",
+      "original_language": "en",
+      "original_title": "Bullet Train",
+      "overview": "Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.",
+      "poster_path": "/RZ8jxobYo6zdtnkR94YmjCkkjN.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "popularity": 5092.953,
+      "release_date": "2022-07-03",
+      "video": false,
+      "vote_average": 7.469,
+      "vote_count": 1392
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/54Ptj4uTvoNToAdp23Z7sbDmQcv.jpg",
+      "id": 642885,
+      "title": "El retorno de las brujas 2",
+      "original_language": "en",
+      "original_title": "Hocus Pocus 2",
+      "overview": "Han pasado 29 años desde que alguien encendió la Vela de la Llama Negra y resucitó a las hermanas Sanderson del siglo XVII, y ahora buscan venganza. De tres estudiantes de secundaria depende impedir que las voraces brujas causen un nuevo tipo de estrago en Salem antes del amanecer el día de Halloween.",
+      "poster_path": "/t7CKYUNVdJePAfhvwSqlp4vsX68.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        14,
+        35,
+        10751
+      ],
+      "popularity": 1823.55,
+      "release_date": "2022-09-27",
+      "video": false,
+      "vote_average": 7.888,
+      "vote_count": 384
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+      "id": 94997,
+      "name": "La casa del dragón",
+      "original_language": "en",
+      "original_name": "House of the Dragon",
+      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "poster_path": "/xiB0hsxMpgxpJehYxUDhiUkg2w.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "popularity": 7222.052,
+      "first_air_date": "2022-08-21",
+      "vote_average": 8.584,
+      "vote_count": 1580,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+      "id": 616037,
+      "title": "Thor: Love and Thunder",
+      "original_language": "en",
+      "original_title": "Thor: Love and Thunder",
+      "overview": "El Dios del Trueno emprende un viaje que no se parece en nada a lo que se ha enfrentado hasta ahora: una búsqueda de la paz interior. Pero el retiro de Thor se ve interrumpido por un asesino galáctico conocido como Gorr el Carnicero de Dioses. Para hacer frente a la amenaza, Thor solicita la ayuda de Valkiria, de Korg y de su ex novia Jane Foster que, para sorpresa de Thor, empuña su martillo mágico, Mjolnir, como la Poderosa Thor. Juntos, se embarcan en una aventura cósmica en la que tendrán que descubrir el misterio de la venganza del Carnicero de Dioses y detenerlo antes de que sea demasiado tarde.",
+      "poster_path": "/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        14,
+        28,
+        35
+      ],
+      "popularity": 1605.631,
+      "release_date": "2022-07-06",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 4014
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1rO4xoCo4Z5WubK0OwdVll3DPYo.jpg",
+      "id": 84773,
+      "name": "El Señor de los Anillos: Los anillos de poder",
+      "original_language": "en",
+      "original_name": "The Lord of the Rings: The Rings of Power",
+      "overview": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+      "poster_path": "/k6Reu01wavDga2nMOSCKjg3Npdu.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "popularity": 4090.037,
+      "first_air_date": "2022-09-01",
+      "vote_average": 7.678,
+      "vote_count": 915,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ajztm40qDPqMONaSJhQ2PaNe2Xd.jpg",
+      "id": 83867,
+      "name": "Star Wars: Andor",
+      "original_language": "en",
+      "original_name": "Star Wars: Andor",
+      "overview": "Las aventuras del espía rebelde Cassian Andor durante los años de formación de la Rebelión antes de los eventos de Rogue One: A Star Wars Story. La serie explora historias llenas de espionaje y atrevidas misiones para devolver la esperanza a una galaxia dominada por un imperio despiadado.",
+      "poster_path": "/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        10759,
+        10768
+      ],
+      "popularity": 1502.052,
+      "first_air_date": "2022-09-21",
+      "vote_average": 8.0,
+      "vote_count": 106,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o5Uy3zM1SNxzoMwy5H04GQAmfNF.jpg",
+      "id": 301502,
+      "title": "Blonde",
+      "original_language": "en",
+      "original_title": "Blonde",
+      "overview": "Basada en el bestseller de la cinco veces finalista al Premio Pulitzer, Joyce Carol Oates, BLONDE es la historia personal audazmente reinventada de la sex symbol más famosa del mundo, Marilyn Monroe. La película es un retrato ficticio de la modelo, actriz y cantante durante los años 50 y 60, contada a través de la mirada moderna de la cultura de las celebridades.",
+      "poster_path": "/S0kNmNLwqh0fx7F7nlIl3by8oz.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 812.573,
+      "release_date": "2022-09-16",
+      "video": false,
+      "vote_average": 6.615,
+      "vote_count": 371
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z8KsgBFtduX5bS1yVkjoGo4L7KJ.jpg",
+      "id": 597922,
+      "title": "Yo me encargo de la cerveza",
+      "original_language": "en",
+      "original_title": "The Greatest Beer Run Ever",
+      "overview": "Nueva York, 1967. Para demostrar su apoyo a sus colegas del barrio que están combatiendo en Vietnam, Chickie Donohue (Zac Efron) decide viajar a la primera línea del frente para llevar a los soldados unas latas de su cerveza norteamericana favorita. Lo que empieza como un viaje repleto de buenas intenciones se convierte rápidamente en una aventura iniciática cuando Chickie se enfrenta a la realidad de esa controvertida guerra, y cuando el reencuentro con sus amigos de la infancia le muestra las complejidades y responsabilidades de la vida adulta.",
+      "poster_path": "/ebZLD9PD1YGU15QoY1PfVOj2x1n.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18,
+        35,
+        10752
+      ],
+      "popularity": 321.111,
+      "release_date": "2022-09-30",
+      "video": false,
+      "vote_average": 7.84,
+      "vote_count": 103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5vUux2vNUTqwCzb7tVcH18XnsF.jpg",
+      "id": 113988,
+      "name": "Dahmer Monstruo: La historia de Jeffrey Dahmer",
+      "original_language": "en",
+      "original_name": "Dahmer – Monster: The Jeffrey Dahmer Story",
+      "overview": "A lo largo de más de 10 años, el asesino convicto Jeffrey Dahmer acabó con la vida de 17 chicos y hombres jóvenes. ¿Pero cómo logró eludir a la justicia tanto tiempo?",
+      "poster_path": "/vlUMBgKO1HOwPMJwHnHzr99BHwN.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 3478.138,
+      "first_air_date": "2022-09-21",
+      "vote_average": 8.349,
+      "vote_count": 526,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+      "id": 361743,
+      "title": "Top Gun: Maverick",
+      "original_language": "en",
+      "original_title": "Top Gun: Maverick",
+      "overview": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo \"Goose\".",
+      "poster_path": "/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "popularity": 1082.54,
+      "release_date": "2022-05-24",
+      "video": false,
+      "vote_average": 8.353,
+      "vote_count": 4143
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
+      "id": 92783,
+      "name": "She-Hulk: abogada Hulka",
+      "original_language": "en",
+      "original_name": "She-Hulk: Attorney at Law",
+      "overview": "Jennifer Walters —una abogada especializada en derecho sobrehumano— tendrá que lidiar con los problemas típicos de una treintañera soltera que además resulta ser una Hulka verde de 2 metros.",
+      "poster_path": "/tGBZafCNpKo6l1B9tWKUaSS5MvD.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        35,
+        10765
+      ],
+      "popularity": 2331.854,
+      "first_air_date": "2022-08-18",
+      "vote_average": 7.049,
+      "vote_count": 869,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dxihDyyA6RSAtLZog4l1MYdDqLD.jpg",
+      "id": 976720,
+      "title": "Vesper",
+      "original_language": "en",
+      "original_title": "Vesper",
+      "overview": "Ambientada en un futuro distópico después del colapso del ecosistema de la Tierra, Vesper, una niña de 13 años que lucha por sobrevivir con su padre paralizado, conoce a una misteriosa mujer con un secreto que obliga a Vesper a utilizar su ingenio, su fuerza y sus habilidades de bio-hackeo para luchar por la posibilidad de un futuro.",
+      "poster_path": "/rLrfEvJhQP3SubJR9SYwHWE9tlZ.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        878,
+        18,
+        12
+      ],
+      "popularity": 137.133,
+      "release_date": "2022-08-17",
+      "video": false,
+      "vote_average": 6.99,
+      "vote_count": 98
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg",
+      "id": 744276,
+      "title": "After. Amor infinito",
+      "original_language": "en",
+      "original_title": "After Ever Happy",
+      "overview": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda de su madre y se hunde cada vez más en su propia oscuridad, ella regresa a Seattle. Tessa es la única capaz de entenderle y calmarle... él la necesita, pero ella ya no es la chica buena y dulce que era cuando llegó a la universidad. Deberá plantearse si lo que debe hacer ahora es salvar a Hardin y su relación con él, o si ha llegado el momento de pensar solo en ella. Si quieren que su amor sobreviva, primero tendrán que trabajar en sí mismos. ¿Pero será su destino seguir estando juntos?",
+      "poster_path": "/iA7oMNByuPRIapcILH8zwEoxV2h.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "popularity": 2705.69,
+      "release_date": "2022-08-24",
+      "video": false,
+      "vote_average": 6.847,
+      "vote_count": 264
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rgZ3hdzgMgYgzvBfwNEVW01bpK1.jpg",
+      "id": 429473,
+      "title": "Lou",
+      "original_language": "en",
+      "original_title": "Lou",
+      "overview": "Una tormenta inclemente. Una niña secuestrada. Una madre desesperada. Y una misteriosa vecina que no duda en unirse a una peligrosa misión de rescate en la naturaleza.",
+      "poster_path": "/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "popularity": 2941.882,
+      "release_date": "2022-09-23",
+      "video": false,
+      "vote_average": 6.534,
+      "vote_count": 175
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/geYUecpFI2AonDLhjyK9zoVFcMv.jpg",
+      "id": 810693,
+      "title": "Jujutsu Kaisen 0: La película",
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦 0",
+      "overview": "Yuta Okkotsu es un nervioso estudiante de instituto que sufre un grave problema: su amiga de la infancia Rika se ha convertido en una maldición y no le deja en paz. Como Rika no es una maldición cualquiera, su situación es percibida por Satoru Gojo, un profesor del instituto Jujutsu, una escuela donde los exorcistas noveles aprenden a combatir las maldiciones. Gojo convence a Yuta para que se matricule, pero ¿podrá aprender lo suficiente a tiempo para enfrentarse a la Maldición que le persigue?",
+      "poster_path": "/chxmCUpq37dDSeyUAVrSADOfQMr.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "popularity": 1037.565,
+      "release_date": "2021-12-24",
+      "video": false,
+      "vote_average": 8.306,
+      "vote_count": 565
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2k9tBql5GYH328Krj66tDT9LtFZ.jpg",
+      "id": 760741,
+      "title": "La Bestia",
+      "original_language": "en",
+      "original_title": "Beast",
+      "overview": "El Doctor Nate Samuels, que se ha quedado viudo recientemente, regresa a Sudáfrica, lugar en el que conoció a su mujer, para visitar una reserva de animales con sus hijas. Pero lo que empieza siendo un viaje curativo se convierte en una lucha por la supervivencia cuando un león que ha escapado de unos cazadores furtivos empieza a seguirles.",
+      "poster_path": "/lGIkv9fQ3i7yVcJXDvG0Vry00LI.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        12,
+        18,
+        27
+      ],
+      "popularity": 2240.269,
+      "release_date": "2022-08-11",
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 567
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+      "id": 532639,
+      "title": "Pinocho",
+      "original_language": "en",
+      "original_title": "Pinocchio",
+      "overview": "Versión en acción real del aclamado cuento sobre una marioneta que se embarca en una trepidante aventura para convertirse en un niño de verdad. La historia también presenta a otros personajes, como Gepetto, el carpintero que fabrica a Pinocho y lo trata como a su propio hijo; Pepito Grillo, que hace las veces de guía y “conciencia” de Pinocho; el Hada Azul; el Honrado Juan; la gaviota Sofía, y el cochero.",
+      "poster_path": "/1yIM2QL0qLzWMjTGuMX12yZnBtb.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        14,
+        12,
+        10751
+      ],
+      "popularity": 1995.814,
+      "release_date": "2022-09-07",
+      "video": false,
+      "vote_average": 6.727,
+      "vote_count": 830
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cOF0InT1qQVUeNjqxjF7gtEtL5L.jpg",
+      "id": 985939,
+      "title": "Vértigo",
+      "original_language": "en",
+      "original_title": "Fall",
+      "overview": "Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo conseguirán?",
+      "poster_path": "/cOWPC7Sg9xoDM5i3uzs4iQtSPUj.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        53
+      ],
+      "popularity": 4522.027,
+      "release_date": "2022-08-11",
+      "video": false,
+      "vote_average": 7.437,
+      "vote_count": 1215
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nmGWzTLMXy9x7mKd8NKPLmHtWGa.jpg",
+      "id": 438148,
+      "title": "Minions: El origen de Gru",
+      "original_language": "en",
+      "original_title": "Minions: The Rise of Gru",
+      "overview": "Mucho antes de convertirse en un genio del mal, Gru no era más que un chaval de 12 años en plenos años 70 tratando de conquistar el mundo desde el sótano de su casa de un barrio residencial cualquiera. Y no le iba demasiado bien. Pero cuando Gru se cruza en su camino con Kevin, Stuart, Bob, y Otto —un nuevo Minion con aparato en los dientes y desesperado por sentirse aceptado—, esta inesperada familia unirá fuerzas para construir su primera guarida, diseñar sus primeras armas y llevar a cabo sus primeras misiones.",
+      "poster_path": "/zBk0guZ6NI2aHclb4sbrQdrrnOC.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        14
+      ],
+      "popularity": 1150.228,
+      "release_date": "2022-06-29",
+      "video": false,
+      "vote_average": 7.586,
+      "vote_count": 2105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o8YJed4tNHpUOSvZ1JtHHg2X0y0.jpg",
+      "id": 505642,
+      "title": "Black Panther: Wakanda Forever",
+      "original_language": "en",
+      "original_title": "Black Panther: Wakanda Forever",
+      "overview": "Segunda entrega de Black Panther protagonizada por el actor Chadwick Boseman, sinopsis pendiente por confirmar",
+      "poster_path": "/yOA8qkI3VvZNPGHv6uj7DdoL1Pz.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "popularity": 168.049,
+      "release_date": "2022-11-09",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 0
+    }
+  ]
+}

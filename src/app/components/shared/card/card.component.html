@@ -1,0 +1,18 @@
+<div class="container">    
+  <div class="row">
+  <ng-container *ngFor="let movie of movieSeriesRow">
+      <button class="card" style="width:18rem;" (click)="detail(movie)">
+        <div class="rating">
+          <img width="13.5" height="13.5" src="assets/star.png" alt="">
+          {{movie.vote_average|number:"1.1-1"}}
+        </div>
+
+        <img  src="{{ urlImage + movie.poster_path}}" class="card_image" height="400" width="274">
+        <div *ngIf="movie.title" class="texto">{{movie.title}}</div>
+        <div *ngIf="movie.name" class="texto">{{movie.name}}</div>
+      </button>
+    </ng-container>
+  </div> 
+</div>
+
+<div class="footer"><br></div>

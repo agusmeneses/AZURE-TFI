@@ -1,0 +1,33 @@
+nav{
+    backdrop-filter: blur(20px);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 120px;
+    gap: 671px;
+    background: rgba(18, 24, 41, 0.8);
+    width: 1440px;
+    height: 80px;
+}
+
+.bg-image {
+    opacity: 0.5;
+}
+li{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #b9b9b9;  
+}
+a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #b9b9b9;  
+}

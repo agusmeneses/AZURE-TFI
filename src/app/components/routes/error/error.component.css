@@ -1,0 +1,64 @@
+.error{
+    position: absolute;
+    width: 400px;
+    height: 320px;
+    left: 520px;
+    top: 120px;
+
+}
+H1{
+    margin-top: 400px;
+    margin-left: 546px;
+    width: 347px;
+    height: 56px;
+
+    /* Heading/H2 */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    /* identical to box height, or 117% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    /* Grey/50 */
+
+    color: #EBEEF5;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+h2{
+    margin-left: 426px;
+    width: 588px;
+    height: 48px;
+
+    /* Body/Regular */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    text-align: center;
+
+    /* Grey/300 */
+
+    color: #8E95A9;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
