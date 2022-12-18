@@ -1,36 +1,18 @@
 import { NgModule } from '@angular/core';
-import { Routes,RouterModule } from '@angular/router';
-import { IngresarComponent } from './components/routes/ingresar/ingresar.component';
-import { InicioComponent } from './components/routes/inicio/inicio.component';
-import { ErrorComponent } from './components/routes/error/error.component';
-import { MoviedetailsComponent } from './components/routes/moviedetails/moviedetails.component';
-import { DashboardComponent } from './components/routes/dashboard/dashboard.component';
-
-
+import { RouterModule, Routes } from '@angular/router';
+import { ClienteComponent } from './components/cliente/cliente.component';
+import { ProveedorComponent } from './components/proveedor/proveedor.component';
+import { LoginComponent } from './components/login/login.component';
 
 const routes: Routes = [
-  {
-    path: 'inicio',component: InicioComponent,
-  },
-  {
-    path: 'ingresar',component: IngresarComponent,
-  },
-  {
-    path:'moviedetail/:id', component: MoviedetailsComponent,
-  },
-  {
-    path:'dash', component: DashboardComponent, 
-  },
-  {
-    path: '',component: InicioComponent,
-  },
-  {
-    path:"**", component: ErrorComponent,
-  }
-]
+  { path: 'cliente', component: ClienteComponent },
+  { path: 'proveedor', component: ProveedorComponent },
+  { path: 'login', component: LoginComponent },
+  { path: '**', pathMatch: 'full', redirectTo: 'cliente' },
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
